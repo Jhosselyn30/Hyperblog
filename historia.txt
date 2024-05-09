@@ -9,3 +9,4 @@ Kali dana
 
 Bonnie2
 
+Usando git revert
